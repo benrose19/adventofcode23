@@ -1,0 +1,14 @@
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\bin\Debug\net6.0\Adventofcode23.exe
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\bin\Debug\net6.0\Adventofcode23.deps.json
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\bin\Debug\net6.0\Adventofcode23.runtimeconfig.json
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\bin\Debug\net6.0\Adventofcode23.dll
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\bin\Debug\net6.0\Adventofcode23.pdb
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\obj\Debug\net6.0\Adventofcode23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\obj\Debug\net6.0\Adventofcode23.AssemblyInfoInputs.cache
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\obj\Debug\net6.0\Adventofcode23.AssemblyInfo.cs
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\obj\Debug\net6.0\Adventofcode23.csproj.CoreCompileInputs.cache
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\obj\Debug\net6.0\Adventofcode23.dll
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\obj\Debug\net6.0\refint\Adventofcode23.dll
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\obj\Debug\net6.0\Adventofcode23.pdb
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\obj\Debug\net6.0\Adventofcode23.genruntimeconfig.cache
+C:\Users\benre\OneDrive\Documents\GitHub\adventofcode23\Adventofcode23\Adventofcode23\obj\Debug\net6.0\ref\Adventofcode23.dll
